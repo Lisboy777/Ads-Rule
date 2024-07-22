@@ -1,4 +1,4 @@
-Self ad remove plugs
+自用去广告插件
 ===
 @AdguardTeam/AdGuardHome
 ---
@@ -13,15 +13,15 @@ Free and open source, powerful network-wide ads & trackers blocking DNS server.
 >
 - 更新地址：https://github.com/gorhill/uBlock
 
-去广告规则1【推荐】
+去广告规则1【推荐·Android】
 ---
 - 更新地址：https://github.com/217heidai/adblockfilters
   
-去广告规则2【推荐】
+去广告规则2【推荐·Android】
 ---
 - 更新地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 
-去广告规则3【适用PC】
+去广告规则3【推荐·Computer】
 ---
 - 更新地址：https://github.com/BlueSkyXN/AdGuardHomeRules
 
