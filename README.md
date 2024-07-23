@@ -4,6 +4,8 @@
 ---
 >Privacy protection center for you and your devices
 Free and open source, powerful network-wide ads & trackers blocking DNS server.
+>
+>涵盖范围广、适用多个客户端
 
 - 更新地址：https://github.com/AdguardTeam/AdGuardHome
 
@@ -11,18 +13,22 @@ Free and open source, powerful network-wide ads & trackers blocking DNS server.
 ---
 >uBlock Origin (uBO) is a CPU and memory-efficient wide-spectrum content blocker for Chromium and Firefox. It blocks ads, trackers, coin miners, popups, annoying anti-blockers, malware sites, etc., by default using EasyList, EasyPrivacy, Peter Lowe's Blocklist, Online Malicious URL Blocklist, and uBO filter lists. There are many other lists available to block even more. Hosts files are also supported. uBO uses the EasyList filter syntax and extends the syntax to work with custom rules and filters.
 >
+>浏览器插件中为数众多喜爱
 - 更新地址：https://github.com/gorhill/uBlock
 
 去广告规则1【推荐·Android】
 ---
+>自动合并规则
 - 更新地址：https://github.com/217heidai/adblockfilters
   
 去广告规则2【推荐·Android】
 ---
+>单独使用、安卓去广告较为优秀代表之一
 - 更新地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 
 去广告规则3【推荐·Computer】
 ---
+>自动合并规则
 - 更新地址：https://github.com/BlueSkyXN/AdGuardHomeRules
 
 Android_Magisk_Mod
